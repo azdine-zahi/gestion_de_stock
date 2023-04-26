@@ -5,7 +5,7 @@ import csv
 
 boutique = mysql.connector.connect(
     host="localhost", user="root",
-    password="Tighzrine1986@", database="boutique")
+    password="*************", database="boutique")
 
 cursor = boutique.cursor()
 
